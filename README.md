@@ -6,3 +6,13 @@ Account Profitability and Service Tiers. What the company sells to who it sells 
 BNAN 430 9/30/26 https://public.tableau.com/shared/5Z7CGBNFH?:display_count=n&:origin=viz_share_link 
 BNAN 430 9/30/26 https://public.tableau.com/shared/YM6DDD6JW?:display_count=n&:origin=viz_share_link
 In Flex 4, I calculated Net Contribution by subtracting each accounts Cost to Serve from their profit and placed the result in the Net Contributions column. In Power BI, I would build Net Contribution as a calculated column because it is a fixed value for each individual account row based on that accounts profit and assigned cost to serve. Having Net Contribution in Power BI would make the analysis easier for Marcus to use because the value would update when the underlying account data is refreshed, rather than having to recalculate it in the workbook.
+
+BNAN 430 10/12/26 https://public.tableau.com/views/PowerBITrainingCertifications_17908198897830/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+Dear Sarah, 
+I am confident that I am prepared to contribute to business intelligence at Southwest Office Solutions because of my experience cleaning, organizing, analyzing, and visualizing data to support business decisions. 
+
+In Flex 3 and Flex 4, I analyzed customer profitability by calculating net contribution after accounting for discounts and cost to serve. In Power BI, I would use the scatter plot visual to compare accounts net contributions to their cost to serve. This visual would help Marcus identify accounts whose service costs are disproportionately high relative to their profitability. 
+
+For business intelligence work at Southwest Office Solutions, I would reach for different tools as each tool serves a different purpose. I would reach for Excel for cleaning up and organizing data. Tableau is an effective tool for storytelling through data visualization, and Power BI is helpful for creating quick reports and calculations. 
+
+Although I have gained experience building reports in Power BI for DataCamp, I have not yet published or maintained a report that others regularly depend on. To develop this skill, I plan on continuing practicing building reports with accuracy and reliability in mind. 
