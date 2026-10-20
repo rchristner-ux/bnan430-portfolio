@@ -16,3 +16,8 @@ In Flex 3 and Flex 4, I analyzed customer profitability by calculating net contr
 For business intelligence work at Southwest Office Solutions, I would reach for different tools as each tool serves a different purpose. I would reach for Excel for cleaning up and organizing data. Tableau is an effective tool for storytelling through data visualization, and Power BI is helpful for creating quick reports and calculations. 
 
 Although I have gained experience building reports in Power BI for DataCamp, I have not yet published or maintained a report that others regularly depend on. To develop this skill, I plan on continuing practicing building reports with accuracy and reliability in mind. 
+
+BNAN 430 Card Portfolio Review -- Contactless Readiness 
+Which batch of non-contactless cards are worth $8 to replace early? 
+Link: https://public.tableau.com/shared/N2ZBYQD2Q?:display_count=n&:origin=viz_share_link 
+One thing I would change if I did this assignment again, would be to try out a different visual chart, like the month bar chart. 
