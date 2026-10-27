@@ -21,3 +21,8 @@ BNAN 430 Card Portfolio Review -- Contactless Readiness
 Which batch of non-contactless cards are worth $8 to replace early? 
 Link: https://public.tableau.com/shared/N2ZBYQD2Q?:display_count=n&:origin=viz_share_link 
 One thing I would change if I did this assignment again, would be to try out a different visual chart, like the month bar chart. 
+
+BNAN 430 Advancing in Excel & Tableau - Pt. 4 Card Growth Analysis (Wildcat Rewards Offer)
+Which group should receive the pilot mailing for the Wildcat Rewards credit card?
+Link: https://public.tableau.com/views/CardGrowthAnalysis_17930831798510/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+Planned the color palette before building everything. I spent way too much time trying to match everything later on. 
