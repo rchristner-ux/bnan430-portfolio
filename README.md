@@ -24,5 +24,5 @@ One thing I would change if I did this assignment again, would be to try out a d
 
 BNAN 430 Advancing in Excel & Tableau - Pt. 4 Card Growth Analysis (Wildcat Rewards Offer)
 Which group should receive the pilot mailing for the Wildcat Rewards credit card?
-Link: https://public.tableau.com/views/CardGrowthAnalysis_17930831798510/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+Link: https://public.tableau.com/shared/M2GPQR82W?:display_count=n&:origin=viz_share_link
 Planned the color palette before building everything. I spent way too much time trying to match everything later on. 
